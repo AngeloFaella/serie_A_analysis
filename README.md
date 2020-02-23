@@ -23,7 +23,7 @@ Like most Italians, I am also a football fan. So I decided to find an answer onc
 The data have been scraped from **legaseriea.it**. I scraped the final table of the league of the last 20 years (1999-2019). [Here](https://github.com/AngeloFaella/serie_A_analysis/blob/master/scraper.py) is the scraper.
 
 # EDA
-Take a look to the Jupyter notebook to see the exploratory data analysis
+Take a look to the [Jupyter notebook](https://github.com/AngeloFaella/serie_A_analysis/blob/master/SerieA.ipynb) to see the exploratory data analysis
 
 # The Answer
 <img src="Final_chart.png">
