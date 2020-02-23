@@ -20,7 +20,7 @@ Like most Italians, I am also a football fan. So I decided to find an answer onc
 ***What is more important to win the Serie A league: attack or defence?***
 
 # Getting the Data
-The data have been scraped from **legaseriea.it**. I scraped the final table of the league of the last 20 years (1999-2019). [Here]() is the scraper
+The data have been scraped from **legaseriea.it**. I scraped the final table of the league of the last 20 years (1999-2019). [Here](https://github.com/AngeloFaella/serie_A_analysis/blob/master/scraper.py) is the scraper.
 
 # EDA
 Take a look to the Jupyter notebook to see the exploratory data analysis
