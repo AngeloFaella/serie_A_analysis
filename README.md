@@ -2,7 +2,7 @@
 
 This is the project I made to complete the [Applied Plotting, Charting & Data Representation in Python](https://www.coursera.org/learn/python-plotting?specialization=data-science-python) course, which is the second course in the "Applied Data Science With Python Specialization" by University of Michigan on Coursera.
 
-If you want more info about this project, check out the [article]() I wrote about it.
+If you want more info about this project, check out the [article](https://medium.com/p/who-wins-the-serie-a-league-attack-vs-defence-a48128e71e22?source=email-883204e1dcc1--writer.postDistributed&sk=c1452bbf2bd0ba2832584dcb81548295) I wrote about it.
 
 ## Assignment
 *This assignment requires that you to find **at least** two datasets on the web which are related, and that you visualize these datasets to answer a question with the broad topic of **sport and athletics** (see below) for the region of **Italy**.*
